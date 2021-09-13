@@ -1,0 +1,16 @@
+/home/josiah/Desktop/Sorting_With_C#/bin/Debug/net5.0/Sorting_With_C#
+/home/josiah/Desktop/Sorting_With_C#/bin/Debug/net5.0/Sorting_With_C#.deps.json
+/home/josiah/Desktop/Sorting_With_C#/bin/Debug/net5.0/Sorting_With_C#.runtimeconfig.json
+/home/josiah/Desktop/Sorting_With_C#/bin/Debug/net5.0/Sorting_With_C#.runtimeconfig.dev.json
+/home/josiah/Desktop/Sorting_With_C#/bin/Debug/net5.0/Sorting_With_C#.dll
+/home/josiah/Desktop/Sorting_With_C#/bin/Debug/net5.0/ref/Sorting_With_C#.dll
+/home/josiah/Desktop/Sorting_With_C#/bin/Debug/net5.0/Sorting_With_C#.pdb
+/home/josiah/Desktop/Sorting_With_C#/obj/Debug/net5.0/Sorting_With_C#.csproj.AssemblyReference.cache
+/home/josiah/Desktop/Sorting_With_C#/obj/Debug/net5.0/Sorting_With_C#.GeneratedMSBuildEditorConfig.editorconfig
+/home/josiah/Desktop/Sorting_With_C#/obj/Debug/net5.0/Sorting_With_C#.AssemblyInfoInputs.cache
+/home/josiah/Desktop/Sorting_With_C#/obj/Debug/net5.0/Sorting_With_C#.AssemblyInfo.cs
+/home/josiah/Desktop/Sorting_With_C#/obj/Debug/net5.0/Sorting_With_C#.csproj.CoreCompileInputs.cache
+/home/josiah/Desktop/Sorting_With_C#/obj/Debug/net5.0/Sorting_With_C#.dll
+/home/josiah/Desktop/Sorting_With_C#/obj/Debug/net5.0/ref/Sorting_With_C#.dll
+/home/josiah/Desktop/Sorting_With_C#/obj/Debug/net5.0/Sorting_With_C#.pdb
+/home/josiah/Desktop/Sorting_With_C#/obj/Debug/net5.0/Sorting_With_C#.genruntimeconfig.cache
